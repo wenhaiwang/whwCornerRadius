@@ -1,5 +1,5 @@
 <h1 align="center">
-ZYCornerRadius <br>
+whwCornerRadius <br>
 一句代码，圆角风雨无阻
 <h5 align="center">
 A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency  
